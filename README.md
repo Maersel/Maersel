@@ -1,5 +1,5 @@
 - Marcel
-- Studying computer science at the Avans university of applied sciences in Breda, The Netherlands
+- Studying computer science at Avans university of applied sciences in Breda, The Netherlands
 - Currently learning Java
 
 Discord: Maersel#1790
