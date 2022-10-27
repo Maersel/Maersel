@@ -8,7 +8,9 @@ Discord: Maersel#1790
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maersel&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maersel&theme=synthwave)
-![GitHub Streak](https://streak-stats.demolab.com?user=Maersel&theme=synthwave)
+![GitHub Streak](https://streak-stats.demolab.com?user=Maersel&theme=synthwave)  
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)
 
 
 <!---
