@@ -9,7 +9,11 @@ Discord: Maersel#1790
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maersel&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maersel&theme=synthwave)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Maersel&theme=synthwave)  
-![Last.FM](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=maersel&theme=dark&show_scrobbles=true)
+  
+  
+![Last.FM](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=maersel&theme=dark&show_scrobbles=true)  
+  
+<a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/lguUhXHU5hRi42RjA3ia?label=Profile%20views&shadow=1&shadowOpacity=28&swap=0&labelBGColor=484848&countBGColor=5f1a6a&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
 
 <!---
