@@ -1,7 +1,6 @@
 - Studying computer science at Avans university of applied sciences in Breda, The Netherlands
 - Currently learning Java
 
-Discord: Maersel#1790
 
 ![My Skills](https://skillicons.dev/icons?i=idea,java&theme=dark)  
 
