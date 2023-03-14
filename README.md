@@ -1,4 +1,3 @@
-- Studying computer science at Avans university of applied sciences in Breda, The Netherlands
 - Currently learning Java
 
 
