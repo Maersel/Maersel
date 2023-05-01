@@ -1,4 +1,4 @@
-- Currently learning Java
+<!-- - Currently learning Java -->
 
 
 ![My Skills](https://skillicons.dev/icons?i=idea,java&theme=dark)  
