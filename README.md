@@ -1,7 +1,7 @@
 <!-- - Currently learning Java -->
 
 
-![My Skills](https://skillicons.dev/icons?i=idea,java&theme=dark)  
+![My Skills](https://skillicons.dev/icons?i=idea,java&theme=dark,css,html,php,js)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maersel&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maersel&theme=synthwave)
