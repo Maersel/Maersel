@@ -11,9 +11,6 @@
   
   
 ![Last.FM](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=maersel&theme=dark&show_scrobbles=true)  
-  
-<a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/lguUhXHU5hRi42RjA3ia?label=Profile%20views&shadow=1&shadowOpacity=28&swap=0&labelBGColor=484848&countBGColor=5f1a6a&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
-
 
 <!---
 Maersel/Maersel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
