@@ -3,7 +3,7 @@
 
 <!--![My Skills](https://skillicons.dev/icons?i=idea,java&theme=dark,css,html,php,js)-->
 
-![Anurag's GitHub stats](https://github-readme-stats-kappa-two-37.vercel.app/api?username=maersel&show_icons=true&theme=synthwave&count-private=true&show=prs_merged)
+![Anurag's GitHub stats](https://github-readme-stats-kappa-two-37.vercel.app/api?username=maersel&show_icons=true&theme=synthwave&count-private=true&show=prs_merged&rank_icon=percentile)
 [![Top Langs](https://github-readme-stats-kappa-two-37.vercel.app/api/top-langs/?username=maersel&show_icons=true&theme=synthwave&count-private=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Maersel&theme=synthwave" />
